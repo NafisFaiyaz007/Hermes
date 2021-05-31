@@ -1,0 +1,38 @@
+
+body{
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 25px;
+  margin-right: 50px;
+  margin-bottom: 25px;
+  font-family: sans-serif;
+}
+
+#h1ForUser{
+  text-decoration: underline;
+  color: #eb5234;
+}
+
+#h4ForUser{
+  margin-top: -20px;
+  margin-left: 250px;
+
+}
+
+div.login_form{
+  margin-top: 10%;
+  text-align: center;
+  margin-left: 35%;
+  border: 1px solid black;
+  border-width: thin;
+  height: 80px;
+  width: 450px;
+
+}
+table{
+  margin: 20px;
+}
+
+a{
+  text-decoration: none;
+}
